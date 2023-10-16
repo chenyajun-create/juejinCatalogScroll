@@ -136,6 +136,7 @@ $i: 7;
   right: 20px;
   top: 20px;
   width: 20%;
+  min-width: 200px;
   border-radius: 10px;
   background-color: #ffffff;
   .catalog-box {
