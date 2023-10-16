@@ -127,7 +127,7 @@ $i: 7;
   border-radius: 10px;
   margin-top: 20px;
   .catalog-message {
-    height: 200px;
+    height: 400px;
     background-color: #bfa;
   }
 }
