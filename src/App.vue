@@ -169,7 +169,9 @@ $i: 7;
     }
   }
 }
+
+/*
 .catalog-box::-webkit-scrollbar {
   display: none;
-}
+}*/
 </style>
